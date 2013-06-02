@@ -112,9 +112,8 @@ better example of this than inline editing.
 
 Inline editing allows content creators to directly manipulate content in the
 interface, with no separation between the editing screen and the display. Medium
-offers an editing interface that’s [identical to the desktop
-display](https://medium.com/about/df8eac9f4a5e) and in-place editing is being
-[added to Drupal 8 core][1].
+offers an editing interface that’s [identical to the desktop display][1] and 
+in-place editing is being [added to Drupal 8 core][2].
 
 One of the questions I get asked most frequently is “how can I get my content
 creators to understand why it’s so important to add structure and metadata to
@@ -126,7 +125,7 @@ about the underlying structure, we’re investing in tools that obscure the
 “connective tissue.”
 
 Jeff Eaton sums up this problem nicely in a post called 
-[Inline Editing and the Cost of Leaky Abstractions][2]:
+[Inline Editing and the Cost of Leaky Abstractions][3]:
 
 > The editing interfaces we offer to users send them important messages, 
 whether we intend it or not. They are affordances, like knobs on doors and 
@@ -148,5 +147,6 @@ where we have infinite possible outputs for our content, it’s time to move
 beyond tools that rely on visual styling to convey semantic meaning. If we want
 true separation of content from form, it has to start in the CMS.
 
-[1]: http://drupal.org/project/spark
-[2]: https://www.lullabot.com/articles/inline-editing-and-cost-leaky-abstractions
+[1]: https://medium.com/about/df8eac9f4a5e
+[2]: http://drupal.org/project/spark
+[3]: https://www.lullabot.com/articles/inline-editing-and-cost-leaky-abstractions
